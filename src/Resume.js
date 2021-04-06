@@ -56,7 +56,7 @@ export const Resume = () => {
                 <animated.h1 style={spring}>Resume</animated.h1>
                 <animated.div className="card w-50 p-3"
                      >
-                    <img src='/Capture.PNG'></img>
+                    <img src='./Capture.PNG'></img>
 
 
                 </animated.div>

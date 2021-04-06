@@ -116,7 +116,7 @@ background: 'linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9)', /* W3C, IE 
 
           </ParallaxLayer>
         <ParallaxLayer factor={1} offset={-0.5} speed={-1.5}  >
-          <img src='Mountains.png' style={{ width: 'auto', height: '200%', opacity: .5, zIndex: -50, marginLeft: 'auto', marginRight: 'auto' }} />
+          <img src='./Mountains.png' style={{ width: 'auto', height: '200%', opacity: .5, zIndex: -50, marginLeft: 'auto', marginRight: 'auto' }} />
 
         </ParallaxLayer>
         <ParallaxLayer factor={1} offset={.2} speed={.1} style={styleThree} >
