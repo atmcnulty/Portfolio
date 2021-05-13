@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.15b2f4db.chunk.css",
-    "main.js": "/Portfolio/static/js/main.2fee0cc2.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.2fee0cc2.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.3fc9fe0e.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.3fc9fe0e.js.map",
+    "main.js": "/Portfolio/static/js/main.b338b427.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b338b427.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.4d3908cb.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4d3908cb.js.map",
     "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
-    "static/js/2.3e968b09.chunk.js": "/Portfolio/static/js/2.3e968b09.chunk.js",
-    "static/js/2.3e968b09.chunk.js.map": "/Portfolio/static/js/2.3e968b09.chunk.js.map",
-    "static/js/3.33470c38.chunk.js": "/Portfolio/static/js/3.33470c38.chunk.js",
-    "static/js/3.33470c38.chunk.js.map": "/Portfolio/static/js/3.33470c38.chunk.js.map",
+    "static/js/2.b7d1c3de.chunk.js": "/Portfolio/static/js/2.b7d1c3de.chunk.js",
+    "static/js/2.b7d1c3de.chunk.js.map": "/Portfolio/static/js/2.b7d1c3de.chunk.js.map",
+    "static/js/3.71cf6690.chunk.js": "/Portfolio/static/js/3.71cf6690.chunk.js",
+    "static/js/3.71cf6690.chunk.js.map": "/Portfolio/static/js/3.71cf6690.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Portfolio/static/css/2.150d169a.chunk.css.map",
     "static/css/main.15b2f4db.chunk.css.map": "/Portfolio/static/css/main.15b2f4db.chunk.css.map",
-    "static/js/2.3e968b09.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3e968b09.chunk.js.LICENSE.txt"
+    "static/js/2.b7d1c3de.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b7d1c3de.chunk.js.LICENSE.txt",
+    "static/media/Mountains.0fe14454.png": "/Portfolio/static/media/Mountains.0fe14454.png",
+    "static/media/paddleboard.f40993f9.jpeg": "/Portfolio/static/media/paddleboard.f40993f9.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fc9fe0e.js",
+    "static/js/runtime-main.4d3908cb.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.3e968b09.chunk.js",
+    "static/js/2.b7d1c3de.chunk.js",
     "static/css/main.15b2f4db.chunk.css",
-    "static/js/main.2fee0cc2.chunk.js"
+    "static/js/main.b338b427.chunk.js"
   ]
 }
