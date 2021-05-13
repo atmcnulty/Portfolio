@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   
-    <BrowserRouter  basename={process.env.PUBLIC_URL}>
+    <BrowserRouter  basename={process.env.PUBLIC_URL} >
     <App />
     </BrowserRouter>,
   
